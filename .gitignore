@@ -1,0 +1,19 @@
+# 비밀 키
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# macOS
+.DS_Store
+
+# 개인 도구 설정 (.claude/settings.json 은 커밋)
+.claude/settings.local.json
+.serena/
