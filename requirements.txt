@@ -1,3 +1,4 @@
 streamlit>=1.45  # selectbox accept_new_options 필요
 requests
 python-dotenv
+openai
